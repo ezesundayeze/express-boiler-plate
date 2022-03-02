@@ -70,7 +70,7 @@
     "cors": "^2.8.3",
     "cross-env": "^7.0.3",
     "dotenv-safe": "^8.2.0",
-    "email-templates": "^6.0.3",
+    "email-templates": "^8.0.9",
     "express": "^4.15.2",
     "express-validation": "^1.0.2",
     "helmet": "^4.6.0",
@@ -88,7 +88,7 @@
     "passport-jwt": "4.0.0",
     "pm2": "^5.1.0",
     "pug": "^3.0.1",
-    "uuid": "^3.1.0",
+    "uuid": "^8.3.2",
     "winston": "^3.1.0"
   },
   "devDependencies": {
